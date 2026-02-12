@@ -117,6 +117,10 @@ I have not tested any MANUAL TRIGGER services with the mentioned persistence tec
 
 2. Parse the output with at least one of your eyes.
 
+## Demo
+
+![demo](./HuntServiceCrashTriggers-2026-02-12_13.24.29.mkv)
+
 ## License
 
 Use at your own risk.
