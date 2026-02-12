@@ -119,7 +119,7 @@ I have not tested any MANUAL TRIGGER services with the mentioned persistence tec
 
 ## Demo
 
-![demo](./HuntServiceCrashTriggers-2026-02-12_13.24.29.mkv)
+[demo](./HuntServiceCrashTriggers-2026-02-12_13.24.29.mkv)
 
 ## License
 
